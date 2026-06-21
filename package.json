@@ -1,0 +1,21 @@
+{
+  "name": "cs50-dark",
+  "displayName": "CS50 Dark",
+  "description": "This is CS50's (unofficial) dark theme for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CS50 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CS50 Dark-color-theme.json"
+      }
+    ]
+  }
+}
