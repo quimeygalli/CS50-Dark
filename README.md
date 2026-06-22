@@ -1,3 +1,5 @@
+This is CS50's (unofficial) VSCode dark theme!
+
 <img width="477" height="575" alt="theme" src="https://github.com/user-attachments/assets/0990be6b-0d54-4cf2-b489-1300d00a18fe" />
 
 ## How to Install:
